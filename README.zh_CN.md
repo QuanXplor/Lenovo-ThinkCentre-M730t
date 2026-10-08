@@ -1,6 +1,8 @@
-## Lenovo-ThinkCentre-M730s Intel Gen10 Hackintosh OpenCore EFI
+## Lenovo-ThinkCentre-M730t Intel Gen10 Hackintosh OpenCore EFI
 
 ![image](ScreenShot/M730s.png)
+
+> 感谢 [hackintosh-club/Lenovo-ThinkCentre-M730s: Hackintosh OpenCore 1.0.4 macOS 12 - 15](https://github.com/hackintosh-club/Lenovo-ThinkCentre-M730s) 提供的M730s的OpenCore配置，本项目是基于M730s配置修改后获得的plist。整体文档虽然图片测试等依旧沿用M730s，但是plist已经换成了M730t支持的配置文件，具体注意事项与M730s一致请看下面内容即可。
 
 ### [English](https://github.com/hackintosh-club/Lenovo-ThinkCentre-M730s)
 
